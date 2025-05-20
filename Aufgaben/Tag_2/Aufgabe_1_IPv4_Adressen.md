@@ -19,5 +19,5 @@
 * 127.0.0.0/8 Localnet oder Loopbackadresse (Eigener Rechner)
     * 127.0.0.0 - 127.255.255.255
 
-* 169.254.0.0/16 ZEROCONF/APIPA-Adressen bei DHCP-Ausfall
+* 169.254.0.0/16 ZEROCONF/APIPA-Adressen bei DHCP-Ausfall (Adresse wird bezogen, aber ohne Verwendung von DHCP)
     * 169.254.0.0 - 169.254.255.255
