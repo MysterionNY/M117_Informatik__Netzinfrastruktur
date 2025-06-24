@@ -7,3 +7,6 @@
 * Öffnet die Netzwerkverbindungen
 
 ![IP ändern](/Images/IP_Change.png)
+
+## lusrmgr.msc
+* Öffnet die Benutzerberechtigungen
