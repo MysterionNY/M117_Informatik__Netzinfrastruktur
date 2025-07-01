@@ -7,6 +7,7 @@
   - [Tag 2 – IPv4 \& Kommunikation](#tag-2--ipv4--kommunikation)
   - [Tag 3 – Switches \& OSI-Modell](#tag-3--switches--osi-modell)
   - [Tag 5 – Kontrollfragen](#tag-5--kontrollfragen)
+  - [Tag 7 -](#tag-7--)
   - [Weitere Dateien](#weitere-dateien)
 
 ## Aufgaben und Links
@@ -40,6 +41,12 @@
 |---|----------------------|-------|
 | 13 | Kontrollfragen Teil 1 | [Aufgabe 1](Aufgaben/Tag_5/Aufgabe_1_Kontrollfragen.md) |
 | 14 | Kontrollfragen Teil 2 | [Aufgabe 2](Aufgaben/Tag_5/Aufgabe_2_Kontrollfragen_2.md) |
+
+### Tag 7 - 
+| # | Thema                | Datei |
+|---|----------------------|-------|
+| 15 | Logische Topologie | [Aufgabe 1](Aufgaben/Tag_7/Aufgabe_1_Logische_Topologie.md) |
+| 16 | Wireshark Aufgaben | [Aufgabe 2](Aufgaben/Tag_7/Aufgabe_2_Wireshark.md) |
 
 ### Weitere Dateien
 | Typ         | Datei |
